@@ -1,10 +1,10 @@
-# Connect to Cardano Wallet
+# Get a List of Cardano Wallets Installed in the Browser
 
 This is a simple code example to display a list of installed Cardano wallets in the browser.
 
 ## Getting Started
 
-Installing the package 
+Installing the package
 
 ```bash
 yarn install
@@ -16,7 +16,7 @@ or
 npm install
 ```
 
-Run the project in development mode 
+Run the project in development mode
 
 ```bash
 yarn dev
@@ -28,7 +28,7 @@ or
 npm run dev
 ```
 
-Build the project 
+Build the project
 
 ```bash
 yarn build
@@ -40,7 +40,7 @@ or
 npm run build
 ```
 
-Run the project in production mode 
+Run the project in production mode
 
 ```bash
 yarn start
